@@ -6,7 +6,20 @@ In this project, I used data from the SPC Tornado Database to investigate these 
 1. Is Tornado Alley shifting elsewhere
 2. Is tornado intensity consistent over time?
 3. Are there changes in seasonal tornado patterns?
-<br>
+
 
 # Findings
-Tornado Alley's geographic location is shifting to the Southeast US.
+## Tornado Alley's geographic location is shifting to the Southeast US.
+<img align="center" src="images/Linear_Regression_Occurrence_Results.png">
+
+Tornadoes in regions outside of Tornado Alley are increasing at a faster rate than those inside Tornado Alley.
+<br>
+
+## There have been no significant changes in tornado intensity
+<img align="center" src="images/Historical_Tornado_Intensity.png">
+
+
+## Tornado seasonality is changing
+
+
+
