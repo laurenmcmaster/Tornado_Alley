@@ -9,17 +9,22 @@ In this project, I used data from the SPC Tornado Database to investigate these 
 
 
 # Findings
-## Tornado Alley's geographic location is shifting to the Southeast US.
+## 1. Tornado Alley's geographic location is shifting to the Southeast US.
 <img align="center" src="images/Linear_Regression_Occurrence_Results.png">
 
 Tornadoes in regions outside of Tornado Alley are increasing at a faster rate than those inside Tornado Alley.
 <br>
 
-## There have been no significant changes in tornado intensity
+## 2. There have been no significant changes in tornado intensity
 <img align="center" src="images/Historical_Tornado_Intensity.png">
+<img align="center" src="images/Recent_Tornado_Intensity.png">
+<br>
 
+## 3. Tornado seasonality is shifting
+<img align="center" src="images/Seasonality_Scatter_Plot.png">
 
-## Tornado seasonality is changing
+There are more tornadoes in winter than expected.
+<br>
 
-
+## 4. Link to Tableau visualization <a href="https://public.tableau.com/shared/SBSB4JS3X?:display_count=n&:origin=viz_share_link">here</a>
 
