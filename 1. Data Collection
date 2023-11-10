@@ -1,0 +1,22 @@
+# Collecting the data
+
+I used a dataset for this analysis, which I obtained from the [SPC Tornado Database](https://www.spc.noaa.gov/wcm/#data). Although a cleaned dataset with tornado data is available on [Kaggle](https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021), the one I chose for this project contains more up-to-date information, so I decided to clean this dataset myself.
+
+### Tornado dataset
+
+- year
+- month
+- day
+- date
+- time
+- state (state tornado originated in)
+- f_rating (using the Fujita scale. Enhanced Fujita scale after January 2007. -9 for unknown)
+- injuries
+- fatalities
+- starting_latitude
+- starting_longitude
+- ending_latitude
+- ending_longitude
+- length_mi (path in miles)
+- width_yd (size in yards)
+- num_states_affected
