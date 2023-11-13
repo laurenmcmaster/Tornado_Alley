@@ -48,5 +48,5 @@ To determine this, I used linear regression analysis to see the slope of each se
 <img align="center" src="images/Linear_Regression_Seasonality_Results.png">
 
 ## 4. Tableau visualization - <a href="https://public.tableau.com/shared/SBSB4JS3X?:display_count=n&:origin=viz_share_link">here</a>
-I created a Tableau visualization for this project to display trends in geographic location, time period, and seasonality. 
-<img align="center" src="images/Linear_Regression_Seasonality_Results.png">
+I created an interactive Tableau dashboard for this project to visualize trends in geographic location, time period, and seasonality. 
+<img align="center" src="images/Tornado_Tableau.png">
