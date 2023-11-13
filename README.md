@@ -1,9 +1,11 @@
-# Introduction
+# Tornadoes in the United States: Patterns, Intensity, and Change
+
+## Introduction
 
 Tornadoes, one of nature's true mysteries, are subjects of fascination and concern in the United States. The central region of the United States, known as Tornado Alley, is renowned for its heightened susceptibility to tornadoes. However, recent developments suggest that Tornado Alley's historical boundaries may be shifting towards the Central-Southeastern regions of the United States. This project aims to shed light on whether changes in the frequency, intensity, and geographic occurrence of tornadoes are indeed unfolding over time.
 <br>
 
-# Key questions
+## Key questions
 
 This data analysis project aims to investigate these questions:
 
@@ -11,7 +13,7 @@ This data analysis project aims to investigate these questions:
 2. Is tornado intensity consistent over time?
 3. Are there changes in seasonal tornado patterns?
 
-# Findings
+## Findings
 
 ## 1. Tornado Alley's geographic location is shifting to the Southeast US.
 This visualization shows  the trends of tornado occurrences inside and outside Tornado Alley, comparing historical and recent data. We see a larger slope for "Recent Outside" than "Recent Inside" which suggests the number of tornadoes outside Tornado Alley is increasing faster than those inside Tornado Alley. 
