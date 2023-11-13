@@ -38,13 +38,15 @@ Then I used ANOVA statistical testing to determine if there was a significant di
 
 ## 3. Tornado seasonality is shifting
 I created four scatter plots (one for each season) to visualize tornado occurrence across the four seasons. These were color-coordinated by time period and location to visualize trends in tornado seasonality.
+<br>
 <img align="center" src="images/Seasonality_Scatter_Plot.png">
 
 Using ANOVA statistical testing, I determined there was a significant change between historical and recent data for each season, indicating a seasonal shift. However, we don't know where seasonality is shifting. 
-<img align="center" src="images/ANOVA_Seasonality_Results.png">
 <br>
+<img align="center" src="images/ANOVA_Seasonality_Results.png">
 
 To determine this, I used linear regression analysis to see the slope of each season (historically and recently). This showed an increase in Spring tornadoes and, surprisingly, Winter tornadoes. This indicates a seasonal shift in tornado activity. 
+<br>
 <img align="center" src="images/Linear_Regression_Seasonality_Results.png">
 
 ## 4. Tableau visualization - <a href="https://public.tableau.com/shared/SBSB4JS3X?:display_count=n&:origin=viz_share_link">here</a>
